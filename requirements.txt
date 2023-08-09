@@ -1,0 +1,6 @@
+csv
+json
+requests
+re
+bs4
+tabulate
