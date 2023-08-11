@@ -1,5 +1,3 @@
-csv
-json
 requests
 re
 bs4
